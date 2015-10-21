@@ -1,0 +1,30 @@
+{
+  "name": "rect-zoom-transforms",
+  "version": "1.0.1",
+  "description": "Calculate the scaling and translations required to zoom and pan from one rectangle to another rectangle within the first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cheapsteak/rect-zoom-transforms.git"
+  },
+  "keywords": [
+    "rect",
+    "rectangle",
+    "calc",
+    "zoom",
+    "transform",
+    "translate"
+  ],
+  "author": {
+    "name": "Chang Wang",
+    "email": "cheapsteak@gmail.com",
+    "url": "https://github.com/cheapsteak"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "clamp": "^1.0.1"
+  }
+}
